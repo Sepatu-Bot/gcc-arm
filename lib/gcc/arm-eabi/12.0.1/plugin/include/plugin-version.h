@@ -7,7 +7,7 @@
 
 static char basever[] = "12.0.1";
 static char datestamp[] = "20220127";
-static char devphase[] = "experimental";
+static char devphase[] = "Bleeding Edge";
 static char revision[] = "";
 
 /* FIXME plugins: We should make the version information more precise.
