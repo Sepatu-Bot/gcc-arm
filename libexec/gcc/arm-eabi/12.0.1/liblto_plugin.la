@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/runner/work/EVA_GCC_TC-BUILD/EVA_GCC_TC-BUILD/../gcc-arm/libexec/gcc/arm-eabi/12.0.1'
+libdir='/home/runner/work/EVA_GCC_TC_Build/EVA_GCC_TC_Build/../gcc-arm/libexec/gcc/arm-eabi/12.0.1'

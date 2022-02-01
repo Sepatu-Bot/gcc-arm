@@ -29673,15 +29673,15 @@
    (!type already_seen 2192)
   )
   gc_pointed_to "hash_map<tree,tree_pair_p>"
-  (!srcfileloc  "cp/pt.cc" 29606)
+  (!srcfileloc  "cp/pt.cc" 29601)
   (!fields 2 
    (!pair  "tree_pair_p"
     (!type already_seen 533)
-    (!srcfileloc  "cp/pt.cc" 29606)
+    (!srcfileloc  "cp/pt.cc" 29601)
     nil )
    (!pair  "tree"
     (!type already_seen 23)
-    (!srcfileloc  "cp/pt.cc" 29606)
+    (!srcfileloc  "cp/pt.cc" 29601)
     nil )
   )
  )
@@ -30826,7 +30826,7 @@
   nil )
  (!pair  "hash_map<tree,tree_pair_p>"
   (!type already_seen 2192)
-  (!srcfileloc  "cp/pt.cc" 29606)
+  (!srcfileloc  "cp/pt.cc" 29601)
   nil )
  (!pair  "pending_template"
   (!type already_seen 2179)
@@ -35339,28 +35339,28 @@
   nil )
  (!pair  "dguide_cache"
   (!type already_seen 2193)
-  (!srcfileloc  "cp/pt.cc" 29606)
+  (!srcfileloc  "cp/pt.cc" 29601)
   (!options 
    (!option deletable string  "")
   )
  )
  (!pair  "explicit_specifier_map"
   (!type already_seen 929)
-  (!srcfileloc  "cp/pt.cc" 13800)
+  (!srcfileloc  "cp/pt.cc" 13795)
   (!options 
    (!option cache string  "")
   )
  )
  (!pair  "defarg_inst"
   (!type already_seen 929)
-  (!srcfileloc  "cp/pt.cc" 13684)
+  (!srcfileloc  "cp/pt.cc" 13679)
   (!options 
    (!option cache string  "")
   )
  )
  (!pair  "last_error_tinst_level"
   (!type already_seen 1971)
-  (!srcfileloc  "cp/pt.cc" 10969)
+  (!srcfileloc  "cp/pt.cc" 10964)
   nil )
  (!pair  "pending_template_freelist_head"
   (!type already_seen 2180)
